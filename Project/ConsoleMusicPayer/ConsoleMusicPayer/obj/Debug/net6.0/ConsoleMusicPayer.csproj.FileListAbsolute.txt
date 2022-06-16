@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\bin\Debug\net6.0\ConsoleMusicPayer.exe
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\bin\Debug\net6.0\ConsoleMusicPayer.deps.json
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\bin\Debug\net6.0\ConsoleMusicPayer.runtimeconfig.json
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\bin\Debug\net6.0\ConsoleMusicPayer.dll
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\bin\Debug\net6.0\ConsoleMusicPayer.pdb
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\obj\Debug\net6.0\ConsoleMusicPayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\obj\Debug\net6.0\Interop.WMPLib.dll
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\obj\Debug\net6.0\ConsoleMusicPayer.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\obj\Debug\net6.0\ConsoleMusicPayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\obj\Debug\net6.0\ConsoleMusicPayer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\obj\Debug\net6.0\ConsoleMusicPayer.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\obj\Debug\net6.0\ConsoleMusicPayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\obj\Debug\net6.0\ConsoleMusicPayer.dll
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\obj\Debug\net6.0\refint\ConsoleMusicPayer.dll
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\obj\Debug\net6.0\ConsoleMusicPayer.pdb
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\obj\Debug\net6.0\ConsoleMusicPayer.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Project\ConsoleMusicPayer\ConsoleMusicPayer\obj\Debug\net6.0\ref\ConsoleMusicPayer.dll
